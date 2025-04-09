@@ -36,8 +36,7 @@ cd Expense-Tracker
 Run the Python script:
 
 bash
-Copy
-Edit
+
 python Expense.py
 
 🛠️ Technologies Used
